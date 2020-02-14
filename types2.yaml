@@ -203,6 +203,7 @@ node_types:
 
       cloudify.interfaces.monitoring_agent:
         install: {}
+        run: {}
         start: {}
         stop: {}
         uninstall: {}
